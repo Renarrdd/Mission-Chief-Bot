@@ -22,20 +22,20 @@
 ![Mission Chief Bot](https://camo.githubusercontent.com/7ebf2f540206248fc4ee737e4d6989d7c4f9920e/68747470733a2f2f692e696d6775722e636f6d2f645a52336e686d2e676966)
 
 
-A Mission Chief bot written to automate the general despatching jobs of the bot. It is a paid service only.
+Un bot Opérateur112 qui permet d'automatiser le déployement de vos missions. Le service est disponible uniquement par abonnement payant
 
-## Accessing the bot 
+## Acceder au bot 
 
-The bot is exclusively now being delivered via the [Mission Chief Bot Website](https://missionchiefbot.com/) 
-Please see the [Wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) to see how the bot works, and how to get it etc.
-The bot also has a Discord with live support, which will show on the website only upon purchasing the bot.
+Le bot est désormais uniquement disponible via le [Site internet de Mission Chief Bot](https://missionchiefbot.com/) 
+Vous pouvez consulter la [Documentation](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) pour comprendre le fonctionnement du bot et comment l'obtenir
+Le bot dispose aussi d'un serveur Discord avec une équipe de support dédiée, l'accès vous y sera délivré sur le site web après votre achat
 
 ## Documentation 
 
-The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) any walkthroughs, guides etc will be there.
+La doccumentation peut aussi être trouvée sur la page [Wiki](https://github.com/jackbayliss/Mission-Chief-Bot/wiki) avec la procédure d'installation, des guides, des astuces etc.
 
 
-## Supported Servers
+## Serveurs Compatibles :
 ![au](https://img.shields.io/badge/-AU-green)
 ![br](https://img.shields.io/badge/-BR-green)
 ![cz](https://img.shields.io/badge/-CZ-green)
@@ -61,7 +61,7 @@ The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission
 ![uk](https://img.shields.io/badge/-UK-green)
 ![us](https://img.shields.io/badge/-US-green)
 
-## Supported URLS
+## URLS Compatibles
 - https://www.missionchief-australia.com/
 - https://www.operador193.com/
 - https://www.operacni-stredisko.cz/
@@ -87,4 +87,4 @@ The docs can also be found via the [Wiki](https://github.com/jackbayliss/Mission
 - https://www.missionchief.co.uk/
 - https://www.missionchief.com/
 
-**USE AT YOUR OWN RISK**
+**A UTILISER A VOS RISQUES ET PERILS**
