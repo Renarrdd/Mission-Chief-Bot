@@ -24,7 +24,7 @@
 
 Un bot Opérateur112 qui permet d'automatiser le déployement de vos missions. Le service est disponible uniquement par abonnement payant
 
-## Accedér au bot 
+## Accéder au bot 
 
 Le bot est désormais uniquement disponible via le [Site internet de Mission Chief Bot](https://missionchiefbot.com/) 
 Vous pouvez consulter la [Documentation](https://github.com/Ronnarrdd/Mission-Chief-Bot/wiki) pour comprendre le fonctionnement du bot et comment l'obtenir
