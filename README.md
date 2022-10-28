@@ -27,12 +27,12 @@ Un bot Opérateur112 qui permet d'automatiser le déployement de vos missions. L
 ## Acceder au bot 
 
 Le bot est désormais uniquement disponible via le [Site internet de Mission Chief Bot](https://missionchiefbot.com/) 
-Vous pouvez consulter la [Documentation](https://github.com/Renarrdd/Mission-Chief-Bot/wiki) pour comprendre le fonctionnement du bot et comment l'obtenir
+Vous pouvez consulter la [Documentation](https://github.com/Ronnarrdd/Mission-Chief-Bot/wiki) pour comprendre le fonctionnement du bot et comment l'obtenir
 Le bot dispose aussi d'un serveur Discord avec une équipe de support dédiée, l'accès vous y sera délivré sur le site web après votre achat
 
 ## Documentation 
 
-La doccumentation peut aussi être trouvée sur la page [Wiki](https://github.com/Renarrdd/Mission-Chief-Bot/wiki) avec la procédure d'installation, des guides, des astuces etc.
+La doccumentation peut aussi être trouvée sur la page [Wiki](https://github.com/Ronnarrdd/Mission-Chief-Bot/wiki) avec la procédure d'installation, des guides, des astuces etc.
 
 
 ## Serveurs Compatibles :
